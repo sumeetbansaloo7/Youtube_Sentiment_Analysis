@@ -8,4 +8,4 @@ YouTube comments and video stats were fetched using YouTube API V3, using the vi
 Main dataset:- https://drive.google.com/file/d/1B-vFy1YL4qXpTuXnmYesQ7CShjBJjj6i/view?usp=sharing <br>
 Cleaned dataset:- https://drive.google.com/file/d/1CyJdSp_bxauaSZy9ywJxaxdXOBecSt-2/view?usp=sharing <br>
 Dataset to train model :- "small_data.csv" <br>
-Fetching data from youtube and calculating analysis is done in testing_model.py , the vid_id variable contains the video id of the video whose sentiment is to be calculated.<br>
+Fetching data from youtube and calculating sentiment is done in testing_model.py , the vid_id variable contains the video id of the video whose sentiment is to be calculated.<br>
